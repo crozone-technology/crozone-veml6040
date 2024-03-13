@@ -1,5 +1,17 @@
 #include "CROZONE_VEML6040.h"
+/*
+    CROZONE_VEML6040
 
+    It is a library for use with the CROZONE VEML6040 module of Crozone Technology Company Limited.
+
+    Created 13 March 2024
+    By YuTTYL
+    Modified 13 March 2024
+    By YuTTYL
+
+    https://github.com/crozone-technology/crozone-veml6040
+
+*/
 CROZONE_VEML6040::CROZONE_VEML6040(TwoWire *wire_set)
 {
     _wire_port = wire_set;
