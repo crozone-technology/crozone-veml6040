@@ -20,7 +20,7 @@ You can install this library directly through the Arduino Library Manager. Follo
 
 To manually install the library, follow these steps:
 
-1. Download the latest version of the library from the [GitHub repository](https://github.com/crozone-technology/crozone-veml6040).
+1. Download the latest version of the library from the [GitHub repository](https://github.com/crozone-technology/crozone-veml6040/releases/tag/0.1.0).
 2. Extract the downloaded ZIP file.
 3. Move the extracted folder to your Arduino libraries folder. Typically, this folder is located at:
    - **For Windows**: `Documents\Arduino\libraries`
